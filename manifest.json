@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+
+    "name": "Usman's Social Extension",
+    "description": "This Extension contain links to my social profiles",
+    "version": "1.0.0",
+    "icons": { "128": "icon/Usman_remake.png" },
+    "browser_action": {
+        "default_icon": "icon/Usman_remake.png",
+        "default_popup": "index.html"
+    },
+    "permissions": ["activeTab"]
+}
